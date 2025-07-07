@@ -1,4 +1,4 @@
 # graphene-colour-palette
 A simple terminal colour palette.
 
-https://placehold.it/150/ffffff/ff0000?text=hello
+$${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
